@@ -1,2 +1,2 @@
 # ghconnect
-test repo for kafka connector.
+test repo for kafka connector. 
